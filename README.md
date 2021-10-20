@@ -1,6 +1,6 @@
 ### Hi there, I'm Alejo 👋
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a junior wev developer!
 
 - 🔭 ...!
 - 🌱 ...
