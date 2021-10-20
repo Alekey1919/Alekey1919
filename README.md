@@ -1,12 +1,6 @@
 ### Hi there, I'm Alejo 👋
 
-## I'm a junior wev developer!
-
-- 🔭 ...!
-- 🌱 ...
-- 👯 ...
-- 🥅 ...
-- ⚡ ...
+## I'm a self-taught junior wev developer!
 
 <br />
 
