@@ -1,6 +1,6 @@
 ### Hi there, I'm Alejo 👋
 
-## I'm a self-taught junior wev developer!
+## I'm a self-taught junior web developer!
 
 <br />
 
